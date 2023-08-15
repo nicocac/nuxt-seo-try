@@ -1,0 +1,87 @@
+a.sub-menu-item:hover  {
+    text-decoration: none !important;
+}
+
+.container {
+    position: relative;
+}
+
+.menu-item-type-custom > a:hover {
+    color: inherit;
+}
+
+footer.footer .menu-footer-container .menu>li.social .sub-menu li a {
+    color: #d6d6d6;
+}
+
+footer.footer .menu-footer-container .menu>li.social .sub-menu li, .social-menu .social-links .menu-item {
+    font-size: 24px;
+    width: 24px !important;
+}
+
+.card-button-v2 {
+    border: solid 1px #850c70;
+    width: 265px;
+    height: 59px;
+    border-radius: 4px;
+    display: block;
+    padding: 15px;
+    margin: 7px;
+}
+
+a.card-button-v2 {
+    font-family: Montserrat !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    font-stretch: normal !important;
+    font-style: normal !important;
+    line-height: 1.69 !important;
+    letter-spacing: -0.32px !important;
+    text-align: center !important;
+    color: #850c70 !important;
+}
+
+#results .view-profile-holder {
+    position: absolute;
+    bottom: 52px;
+    right: 40px;
+}
+
+.ratings-count {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: right;
+    color: #ee5e32;
+    margin-top: 10px;
+}
+
+.talk-dr-heading h2 {
+    font-size: 32px;
+    /* font-size: 32px; */
+    line-height: 1.25;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.provider-img-placeholder {
+    width: 104px;
+    height: 104px;
+    margin: 9px auto 27px auto;
+    border-radius: 50%;
+}
+
+.provider-img-profile {
+    width: 150px;
+    height: 150px;
+}
